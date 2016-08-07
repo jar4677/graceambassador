@@ -1,0 +1,18 @@
+body * {
+    font-family: serif;
+}
+
+#header-jumbo {
+    background-color: #27771e;
+    margin-bottom: 0;
+    color: white;
+}
+
+#carousel-jumbo {
+    padding: 0;
+}
+
+.image-carousel {
+    max-height: 60vh;
+    margin: 0 auto;
+}
